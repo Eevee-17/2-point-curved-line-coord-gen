@@ -1,5 +1,5 @@
 # 2-point-curved-line-coord-gen
-This works best if you run the jar using the command line (For exaple, you could run it with: ```java -jar 2pt-curve-ln_coord-gen.jar```)
+This works best if you run the jar using the command line (For example, you could run it with: ```java -jar 2pt-curve-ln_coord-gen.jar```)
 
 If you are curious about the formula I made to generate the line, you can check [this](https://www.desmos.com/calculator/v14fhftest) desmos.
 
